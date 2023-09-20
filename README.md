@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm Ryan, A Final year CS Student at Sheffield Hallam University, studying to become a Game Developer. 
+I'm currently learning to program in C++!
 <!--
 **DrakZone/DrakZone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
